@@ -1,0 +1,6 @@
+# Ignore all
+*.out
+
+.vscode/
+
+.DS_Store
